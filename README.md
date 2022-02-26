@@ -1,4 +1,4 @@
-# BREED-bootloader-port
+# BREED-XIAOMI-port
 Port for easy wget on Xiaomi MIR3G/MI Mini router
 
 Boot and Recovery Environment for Embedded Devices (BREED)  
